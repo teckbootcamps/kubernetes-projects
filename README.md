@@ -10,6 +10,7 @@ If you are planning to use this repo for learning, please hit the star. Thanks!
 
 1. [Kuberenetes the Hard Way on AWS](https://github.com/teckbootcamps/kubernetes-projects/tree/main/01-kubernetes-the-hard-way-aws)
 2. [Setup Kubeadm Cluster](https://teckbootcamps.com/how-to-setup-kubernetes-cluster-using-kubeadm/)
+3. [Deploy Java App With MySQL on Kubernetes](https://github.com/teckbootcamps/kubernetes-projects/tree/main/03-java-app-deployment)
 
 
 ## Kubernetes Certification Vouchers
